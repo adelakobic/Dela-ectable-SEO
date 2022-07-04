@@ -22,7 +22,7 @@ This should include alt text which can be read by browser-based tools and screen
 ## Assets
 The following image demonstrates the we application's appearance.
 
-[Screenshot of the website as it should look.](./develop/assets/images/Horiseon-Screenshot-2022-07-02.jpg)
+[Screenshot of the website as it should look.](./Develop/assets/images/Horiseon-Screenshot-2022-07-02.jpg)
 
 ## Changes made to the code - 3rd July 2022
 * alternative (alt) text has been written and activated for:
